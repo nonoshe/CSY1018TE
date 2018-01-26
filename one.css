@@ -1,0 +1,18 @@
+body{
+	margin: 0px;
+	padding: 5px;
+}
+header h1{
+	padding:5px;
+	text-align:center;
+}
+nav li{
+	display: inline-block;
+	margin:2px;
+}
+nav{
+border:solid black 2px;
+}
+footer{
+	border-top:solid black 1px;
+}
